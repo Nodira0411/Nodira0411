@@ -1,4 +1,4 @@
-# [Your Full Name]  
+# [Stimboyeva Nodira]  
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?logo=github&logoColor=white)](https://github.com/[your-github-username])  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin])  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/[your-twitter])  

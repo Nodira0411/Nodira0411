@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate software developer with expertise in [mention your field, e.g., full-stack development, data science, etc.]. With experience working in [your industry or project types], I enjoy solving complex problems and building robust applications. My GitHub profile showcases my open-source contributions, personal projects, and continuous learning in the tech industry. I am always excited to learn new technologies and collaborate with other developers.
+I am a passionate software developer with expertise in [mention your field, e.g., full-stack development, data science, etc.]. With experience working in [your industry or project types], I enjoy solving complex problems and building robust applications. My GitHub profile showcases my open-source contributions, personal projects, and continuous learning in the tech industry. I am always excited to learn new technologies and collaborate with other developers.I love mom and dad.
 
 ---
 

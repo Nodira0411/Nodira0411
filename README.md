@@ -24,7 +24,7 @@ I am a passionate software developer with expertise in [mention your field, e.g.
 
 ## 🏆 Experience
 
-### [Company Name] — [Position]  
+### [Nodira] — [Position]  
 *Month Year – Present*  
 - Developed scalable web applications using React, Node.js, and MongoDB, improving performance by 25%.
 - Collaborated with cross-functional teams to design and implement new features and functionalities.
@@ -50,7 +50,7 @@ I am a passionate software developer with expertise in [mention your field, e.g.
 
 ## 🔧 Projects
 
-### [Project Name 1]  
+### [O'zim xaqimda]  
 - **Description**: [Short description of the project, tech stack used, and what it does.]
 - **Tech Stack**: React.js, Node.js, MongoDB
 - **GitHub**: [GitHub Repository Link]

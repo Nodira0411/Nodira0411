@@ -224,49 +224,6 @@ I contribute to various open-source projects on GitHub, mainly focusing on [ment
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-            body
-            font-size: sch;
-        
-            p(
-            font-size: sch;
-            )
-
-
-
-
-        </style>
-</head>
-<body style="background-color: rgb(142, 255, 127)">
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-    <h1 style="font-size: 10ex;">   Nodirabegim</h1>
-    <h4 style="color: rgb(255, 0, 0);">KUCHUKCHALAR va manzara</h4>
-    <h2>KUCHUKCHALAR</h2> 
-    <h4 style="color: rgb(141, 9, 16);">Nodirabegim S-N-N</h4>
-    <p>KUCHUKLAR GO'ZALKI</p>
-    <img src="Nodira.jpg">
-    <img src="Nodira.jpg">
-    <img src="Nodira.webp">
-    <p>juda ham go'zal manzara u yerga borish orzu bo'liq qolmas </p>
-    <img src="Nodira.webp">
-    <p>
-       <i>Lorem ipsum dolor sit, amet consectetur<b> adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde earum tempora deleniti consectetur veritatis eligendi natus totam, in sed doloremque! Quidem praesentium aperiam rem non porro expedita totam aspernatur quam.Quas nesciunt eum recusandae obcaecati commodi exercitationem praesentium a corporis, distinctio eaque voluptatum, tempora repellendus dicta veniam, facilis incidunt eveniet libero atque.</i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam quia cum, provident doloribus nostrum eaque impedit unde atque, fuga sint voluptate dicta ut aliquam excepturi blanditiis vel repudiandae ex quaerat.</b>
-       <del>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia explicabo mollitia ullam sequi, officiis aliquid aliquam ipsam recusandae. Saepe eaque necessitatibus, tempore harum quia quis odio dolorum ratione accusantium consectetur!</del>
-       H<sub>2</sub>O            
-         H<sup>2</sup>O
-    </p>
-    <a href="https://www.google.com/search?q=%3Ch2%3EKUCHUKCHALAR%3C%2Fh2%3E+%3Cp%3EKUCHUKLAR+GO%27ZALKI%3C%2Fp%3E+%3Cimg+src%3D%22Nodira.jpg%22&oq=%3Ch2%3EKUCHUKCHALAR%3C%2Fh2%3E+%3Cp%3EKUCHUKLAR+GO%27ZALKI%3C%2Fp%3E+%3Cimg+src%3D%22Nodira.jpg%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCjc3NzQ3NWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8">KUCHUKCHALAR</a>
-    <a href=nodira.html"><img src="Nodira.jpg" alt="KUCHUKCHALAR">
-    <a href="https://www.google.com/search?sca_esv=c818ec8d0c4189e3&q=google&udm=2&fbs=AEQNm0Cu53MuyNySd6zBkqVby_rWbAxmIDQBKvRJXGNbrd8cVQXpFPM-Dz7c3Rmut7G7Wi3UGTFn8m7m95E-HPn59MstlotXfSVQ63o2p356CTFE09D7-2PLS_6qs9yKDVq3raeqrfUGEMu45proCYcs0Y3iUWrJFrm85mvlDD_GUO5s2a5S_REqE6UEx0WIZS5MvpNE2VYOPDQaLL3MZ3_0uk9oMaNkdQ&sa=X&ved=2ahUKEwiFu_mE3bOKAxUxPhAIHZdZGvMQtKgLegQIHxAB&biw=1920&bih=945&dpr=1">gogle nodira</a>
-    <!--ushbu kodlarda biz orqa fonni ranglarga bo'yadim,so'zlarni ranglarga bo'yadim,rasmlar qo'ydim ,havolalar qo'ydim va bu kodlardni samarasini "D:/Nodira%207/index.html" orqali goeglo chromeda ko'ra olasiz-->
-    </body>
-</html>
 
 
 
